@@ -1,0 +1,12 @@
+.App-logo {
+    height: 10vmin;
+}
+
+.App-header {
+    background-color: #fafafa;
+    padding: 20px;
+    border-bottom: 1px solid lightgray;
+    objectif-fit: contain;
+    display: flex;
+    justify-content: space-between;
+}
